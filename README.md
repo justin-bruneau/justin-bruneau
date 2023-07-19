@@ -49,3 +49,5 @@
 ----
 ## 🏆 Visiteur
 ![Visitor Count](https://profile-counter.glitch.me/justin-bruneau/count.svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=justin-bruneau&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
