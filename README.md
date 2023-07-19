@@ -44,3 +44,8 @@
 
 - Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://predigt.dev/">Predigt</a>
 </p>
+
+
+----
+
+![Visitor Count](https://profile-counter.glitch.me/justin-bruneau/count.svg)
