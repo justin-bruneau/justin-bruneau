@@ -50,4 +50,20 @@
 ## 🏆 Visiteur
 ![Visitor Count](https://profile-counter.glitch.me/justin-bruneau/count.svg)
 
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=justin-bruneau&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+---
+
+## TAKE BADGE ICON
+https://github.com/Ileriayo/markdown-badges
+
+## TEXTE SVG ANIMATION
+https://readme-typing-svg.demolab.com/demo/
+
+## STEAK STATS
+https://streak-stats.demolab.com/demo/
+
+## TEXTE ANIMATION 2
+https://en.bloggif.com/text
