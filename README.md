@@ -1,32 +1,43 @@
-<!-- Insérez ici une photo de vous ou de votre compte -->
-<img src="chemin/vers/votre/photo.jpg" alt="Ma photo">
+# Salut, je suis Justin Bruneau! :wave:
 
-# Bienvenue sur mon compte GitHub! :wave:
+![Cover](chemin/vers/votre/image-de-couverture.jpg)
 
-Je suis [Votre Nom], passionné(e) de développement et d'innovation. Je suis ravi(e) de vous présenter mes projets et mes contributions ici. Voici un aperçu rapide de qui je suis et de ce que vous pouvez trouver sur ce compte :
+## À propos de moi
 
-## :bust_in_silhouette: À propos de moi
+🌱 J'apprends actuellement [précisez ce que vous apprenez actuellement].
 
-Je suis un(e) développeur(euse) passionné(e) par l'apprentissage et l'exploration des nouvelles technologies. Mon objectif est de créer des solutions innovantes qui résolvent des problèmes du quotidien. Je suis spécialisé(e) dans [mentionnez vos domaines de compétence] et j'aime travailler sur des projets open source.
+🔭 Je travaille actuellement sur [précisez sur quoi vous travaillez actuellement].
 
-## :computer: Projets
+👨‍💻 Tous mes projets sont disponibles sur [justin-bruneau.com](lien_vers_votre_site_web).
 
-Voici quelques-uns des projets auxquels j'ai contribué :
+📝 J'écris régulièrement des articles sur [votre-blog.com](lien_vers_votre_blog).
 
-- [Projet 1](lien_vers_projet_1) : Une description brève du projet 1.
-- [Projet 2](lien_vers_projet_2) : Une description brève du projet 2.
-- [Projet 3](lien_vers_projet_3) : Une description brève du projet 3.
+💬 N'hésitez pas à me solliciter pour des questions sur [précisez les domaines dans lesquels vous pouvez aider].
 
-N'hésitez pas à explorer mon compte pour découvrir plus de projets intéressants!
+📫 Vous pouvez me contacter par email à [votre-email@example.com].
 
-## :mailbox: Me contacter
+## Me contacter
 
-Si vous souhaitez discuter de collaborations, de projets ou si vous avez des questions, vous pouvez me contacter par email à [votre@email.com].
+- [Twitter](https://twitter.com/votre_nom_d_utilisateur)
+- [LinkedIn](https://www.linkedin.com/in/votre_nom_d_utilisateur)
 
-## :book: Blog
+## Compétences
 
-J'écris également des articles techniques et des tutoriels sur mon blog personnel. Vous pouvez les trouver sur [lien_vers_votre_blog].
+[Énumérez ici vos compétences pertinentes]
 
-N'hésitez pas à me suivre et à me contacter pour discuter de vos idées et de vos projets. Je suis ouvert(e) aux opportunités de collaboration.
+## Statistiques GitHub
 
-Merci d'avoir visité mon compte GitHub! :smiley:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-bruneau&show_icons=true&theme=radical)
+
+## Activité GitHub
+
+![Activity Graph](chemin/vers/votre/graphique-d-activite.png)
+
+## Support
+
+Si vous avez des questions ou avez besoin de support, n'hésitez pas à me contacter.
+
+---
+N'oubliez pas de remplacer `"chemin/vers/votre/image-de-couverture.jpg"` par le chemin réel vers votre image de couverture et `"chemin/vers/votre/graphique-d-activite.png"` par le chemin réel vers votre graphique d'activité. Personnalisez également les autres sections en fonction de vos compétences, de vos liens de réseaux sociaux et de votre site web ou blog.
+
+Amusez-vous bien avec votre README !
