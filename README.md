@@ -1,5 +1,5 @@
 
-# Salut, je suis Bruneau Justin! :wave:
+# Salut, je suis Bruneau Justin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ![Cover](https://www.evogest.fr/storage/197/conversions/Serveur-cloud-top-page.png)
 <img src="https://media.giphy.com/media/sN7VFBDZWCgjm/giphy.gif" width="60"> <em><b>AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHB</b> :)</em>
