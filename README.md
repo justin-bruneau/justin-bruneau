@@ -4,6 +4,8 @@
 ![Cover](https://www.evogest.fr/storage/197/conversions/Serveur-cloud-top-page.png)
 <img src="https://media.giphy.com/media/sN7VFBDZWCgjm/giphy.gif" width="60"> <em><b>AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHB</b> :)</em>
 
+---
+
 ## Statistiques GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=justin-bruneau&theme=radical&hide_langs_below=8)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justin-bruneau&show_icons=true&theme=radical)
@@ -21,3 +23,20 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=justin-bruneau&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+
+
+---
+
+
+<p align="center">
+  
+- Contributing on: <a href="https://github.com/PluckyPreciou?tab=followers">
+    <img src="https://img.shields.io/github/followers/PluckyPrecious?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+  </a>
+
+- Trying to be up to good on: <a href="http://twitter.com/PluckyPrecious">
+    <img src="https://img.shields.io/twitter/follow/PluckyPrecious?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+
+- Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://predigt.dev/">Predigt</a>
+</p>
