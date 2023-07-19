@@ -1,6 +1,10 @@
 
 # Salut, je suis Bruneau Justin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+
+![Cover](https://github.com/justin-bruneau/justin-bruneau/blob/main/Vanilla-1s-280px.gif)
+---
+
 ![Cover](https://www.evogest.fr/storage/197/conversions/Serveur-cloud-top-page.png)
 <img src="https://media.giphy.com/media/sN7VFBDZWCgjm/giphy.gif" width="60"> <em><b>AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHB</b> :)</em>
 
